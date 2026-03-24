@@ -1,0 +1,3 @@
+We are looking for a Backend Developer with strong experience in Python,
+SQL, REST APIs, and building scalable web applications.
+Experience with Node.js and MongoDB is a plus.
