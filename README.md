@@ -84,7 +84,7 @@ http://127.0.0.1:8000/docs
 
 ```json
 {
-  "match_score": 89.30,
+  "match_score": 89.31,
   "decision": "REVIEW",
   "skills_score": 0.97,
   "experience_score": 0.46,
