@@ -286,7 +286,6 @@ MIT License
 ---
 
 ## 📧 Contact
-
-* 👤 **Muhamad Ammar**
-* ✉️ Email: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)
-* 🔗 LinkedIn: [https://www.linkedin.com/in/muhamad-ammar-18b427306](https://www.linkedin.com/in/muhamad-ammar-18b427306)
+- ✉️ **Email**: [muhamad.ammar09001@gmail.com](mailto:muhamad.ammar09001@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
+- 🔗 **Portfolio**: [https://muhamedhossafy.github.io/My-Portfolio-DevMA/](https://muhamedhossafy.github.io/My-Portfolio-DevMA/)
