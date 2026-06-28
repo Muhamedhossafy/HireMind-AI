@@ -1,7 +1,7 @@
 from cv_parser.parser import extract_cv_data
 import json
 
-cv_path = "data/cvs/Muhamad_Ammar_CV.pdf"
+cv_path = "data/cvs/cv.pdf"
 
 result = extract_cv_data(cv_path)
 
